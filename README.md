@@ -15,6 +15,10 @@
 - #### [3sumCloset](https://leetcode.com/problems/3sum-closest/)
 - #### [ Increasing Triplet Subsequence](https://leetcode.com/problems/3sum-closest/)
 
+### Day-3
+- #### [Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/)
+- #### [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
+
 ### Day-
 - #### []()
 - #### []()
