@@ -13,15 +13,15 @@
 
 ### Day-2-Array
 - #### [3sumCloset](https://leetcode.com/problems/3sum-closest/)
-- #### [ Increasing Triplet Subsequence](https://leetcode.com/problems/3sum-closest/)
+- #### [ Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
 
-### Day-3
+### Day-3-Array
 - #### [Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/)
 - #### [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
 
-### Day-
-- #### []()
-- #### []()
+### Day-4-Array 
+- #### [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/)
+- #### [ Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)
 
 
 
