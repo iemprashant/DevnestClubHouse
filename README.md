@@ -23,9 +23,14 @@
 - #### [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/)
 - #### [ Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)
 
+### Day-5 Maths , Binary Search, Hashing
+- #### [SearchInRotatedArray]( https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- #### [FindFirstAndLastPosition]( https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+
+### Day-6 Maths , Binary Search, Hashing
+- #### [IntegerToArray]( https://leetcode.com/problems/integer-to-roman/)
+- #### [RepeatedDnaSequence]( https://leetcode.com/problems/repeated-dna-sequences/)
+
 ### Day-
 - #### []()
 - #### []()
-
-
-
