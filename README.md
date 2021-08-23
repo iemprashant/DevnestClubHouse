@@ -31,6 +31,11 @@
 - #### [IntegerToArray]( https://leetcode.com/problems/integer-to-roman/)
 - #### [RepeatedDnaSequence]( https://leetcode.com/problems/repeated-dna-sequences/)
 
+### Day-7 Maths , Binary Search, Hashing
+- #### [Powerofx](https://leetcode.com/problems/powx-n/)
+- #### [Squareofx](https://leetcode.com/problems/sqrtx/)
+
 ### Day-
 - #### []()
 - #### []()
+
