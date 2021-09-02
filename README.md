@@ -49,3 +49,29 @@
 - #### [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)
 - #### [Group Anagrams](https://leetcode.com/problems/group-anagrams/)✅ 
 
+### Day-11 Binary Search, Hashing 
+- #### [ Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+- #### [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+
+### Day-12 Binary Search, Hashing 
+- #### [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
+- #### [Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/)
+- #### [ Reach a Number](https://leetcode.com/problems/reach-a-number/)
+
+### Day-13 
+
+##### Dynamic programing
+
+- #### [Triangle](https://leetcode.com/problems/triangle/)
+- #### [Counting Bits](https://leetcode.com/problems/counting-bits/)
+
+##### Arrays
+
+- #### [ Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+- #### [Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/)
+- #### [Binary Search](https://leetcode.com/problems/binary-search/)
+
+### Day-
+- #### []()
+- #### []()
+- #### []()
