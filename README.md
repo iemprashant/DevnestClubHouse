@@ -62,8 +62,8 @@
 
 ##### Dynamic programing
 
-- #### [Triangle](https://leetcode.com/problems/triangle/)
-- #### [Counting Bits](https://leetcode.com/problems/counting-bits/)
+- #### [Triangle](https://leetcode.com/problems/triangle/)✅
+- #### [Counting Bits](https://leetcode.com/problems/counting-bits/)✅
 
 ##### Arrays
 
