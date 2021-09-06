@@ -71,7 +71,42 @@
 - #### [Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/)
 - #### [Binary Search](https://leetcode.com/problems/binary-search/)
 
-### Day-
+### Day-14
+
+##### Dynamic programing
+
+- #### [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)✅
+- #### [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/)
+
+##### Arrays
+
+- #### [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/)
+- #### [Baseball Game](https://leetcode.com/problems/baseball-game/)
+- #### [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)
+
+### Day-15
+
+##### Dynamic programing
+
+- #### [Target Sum](https://leetcode.com/problems/target-sum/)
+- #### [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)✅
+
+##### Arrays
+
+- #### [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)✅
+- #### [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)✅
+- #### [Coordinate With Maximum Network Quality](https://leetcode.com/problems/coordinate-with-maximum-network-quality/)
+
+### Day-16
+
+##### Dynamic programing
+
+- #### []()
+- #### []()
+
+##### Arrays
+
+
 - #### []()
 - #### []()
 - #### []()
